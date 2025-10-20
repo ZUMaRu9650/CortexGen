@@ -1,6 +1,6 @@
 # CortexGen
 
-This repository contains the source code for the MICCAI 2025 paper _**CortexGen: A Geometric Generative Framework for Realistic Cortical Surface Generation Using Latent Flow Matching**_
+This repository contains the source code for the MICCAI 2025 paper [CortexGen: A Geometric Generative Framework for Realistic Cortical Surface Generation Using Latent Flow Matching](https://papers.miccai.org/miccai-2025/paper/1498_paper.pdf)
 <img width="960" alt="幻灯片2" src="https://github.com/user-attachments/assets/fb919d38-81fd-4309-b188-72d40a72e4ea" />
 
 
